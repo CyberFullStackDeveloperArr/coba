@@ -416,6 +416,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KXDzSPejDsJHSjE1RqV1-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="154" y="410" width="520" height="580" as="geometry" />
+        </mxCell>
         <mxCell id="TLjRRva_yi8nptASzXf0-2" value="&lt;font&gt;Pendaftaran Siswa Coding&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="313" y="420" width="200" height="30" as="geometry" />
         </mxCell>
