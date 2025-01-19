@@ -494,12 +494,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="V16KKBIWGydp3EZu9WTI" name="Halaman-4">
-    <mxGraphModel dx="683" dy="396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="827" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="niu0lTYY4RNLyH4DrMC--6" value="Akun" style="swimlane;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="114" y="410" width="200" height="410" as="geometry" />
+          <mxGeometry x="113" y="420" width="200" height="410" as="geometry" />
         </mxCell>
         <mxCell id="niu0lTYY4RNLyH4DrMC--14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="niu0lTYY4RNLyH4DrMC--6" source="niu0lTYY4RNLyH4DrMC--10" target="niu0lTYY4RNLyH4DrMC--12">
           <mxGeometry relative="1" as="geometry" />
@@ -525,7 +525,7 @@
           <mxGeometry x="70" y="190" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="niu0lTYY4RNLyH4DrMC--8" value="Web Scraper" style="swimlane;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="314" y="410" width="200" height="410" as="geometry" />
+          <mxGeometry x="313" y="420" width="200" height="410" as="geometry" />
         </mxCell>
         <mxCell id="niu0lTYY4RNLyH4DrMC--28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="niu0lTYY4RNLyH4DrMC--8" source="niu0lTYY4RNLyH4DrMC--19" target="niu0lTYY4RNLyH4DrMC--25">
           <mxGeometry relative="1" as="geometry" />
@@ -560,7 +560,7 @@
           <mxGeometry x="80" y="360" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="niu0lTYY4RNLyH4DrMC--9" value="Analisis Data" style="swimlane;whiteSpace=wrap;html=1;startSize=23;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="514" y="410" width="200" height="410" as="geometry" />
+          <mxGeometry x="513" y="420" width="200" height="410" as="geometry" />
         </mxCell>
         <mxCell id="niu0lTYY4RNLyH4DrMC--35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="niu0lTYY4RNLyH4DrMC--9" source="niu0lTYY4RNLyH4DrMC--32" target="niu0lTYY4RNLyH4DrMC--34">
           <mxGeometry relative="1" as="geometry" />
@@ -588,8 +588,8 @@
         <mxCell id="niu0lTYY4RNLyH4DrMC--33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="niu0lTYY4RNLyH4DrMC--30" target="niu0lTYY4RNLyH4DrMC--32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="530" y="625" />
-              <mxPoint x="530" y="475" />
+              <mxPoint x="529" y="635" />
+              <mxPoint x="529" y="485" />
             </Array>
           </mxGeometry>
         </mxCell>
