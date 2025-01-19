@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.6" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.6" pages="4">
   <diagram name="Halaman-1" id="_XmtBNqs7ybtAx8C3R3i">
     <mxGraphModel dx="1123" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -489,6 +489,35 @@
         </mxCell>
         <mxCell id="KXDzSPejDsJHSjE1RqV1-32" value="Activity Diagram" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="314" y="950" width="200" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="V16KKBIWGydp3EZu9WTI" name="Halaman-4">
+    <mxGraphModel dx="683" dy="396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="niu0lTYY4RNLyH4DrMC--5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="300" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="niu0lTYY4RNLyH4DrMC--6" value="Akun" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="114" y="410" width="200" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="niu0lTYY4RNLyH4DrMC--14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="niu0lTYY4RNLyH4DrMC--6" source="niu0lTYY4RNLyH4DrMC--10" target="niu0lTYY4RNLyH4DrMC--12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="niu0lTYY4RNLyH4DrMC--10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="niu0lTYY4RNLyH4DrMC--6">
+          <mxGeometry x="80" y="40" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="niu0lTYY4RNLyH4DrMC--12" value="Menerima Masukkan Email Password" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="niu0lTYY4RNLyH4DrMC--6">
+          <mxGeometry x="50.5" y="100" width="99" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="niu0lTYY4RNLyH4DrMC--8" value="Web Scraper" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="410" width="200" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="niu0lTYY4RNLyH4DrMC--9" value="Analisis Data" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="514" y="410" width="200" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
