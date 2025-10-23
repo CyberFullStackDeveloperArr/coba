@@ -600,7 +600,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="S9GQfCRw7XTyugrCux3c" name="Halaman-5">
-    <mxGraphModel dx="389" dy="230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="370" dy="219" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -634,6 +634,15 @@
             <mxPoint x="540" y="261" as="targetPoint" />
             <Array as="points">
               <mxPoint x="540" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="No3lAWHVarOLl_5b5NRx-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.893;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="No3lAWHVarOLl_5b5NRx-23" target="No3lAWHVarOLl_5b5NRx-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="260" as="sourcePoint" />
+            <mxPoint x="473" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="539" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
