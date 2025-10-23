@@ -600,7 +600,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="S9GQfCRw7XTyugrCux3c" name="Halaman-5">
-    <mxGraphModel dx="131" dy="77" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="389" dy="230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -613,7 +613,7 @@
             <mxPoint x="413.99" y="158.74" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="No3lAWHVarOLl_5b5NRx-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;email&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;password&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+        <mxCell id="No3lAWHVarOLl_5b5NRx-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;email&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot; style=&quot;&quot;&gt;password&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="339" y="160" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="No3lAWHVarOLl_5b5NRx-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="No3lAWHVarOLl_5b5NRx-10" target="No3lAWHVarOLl_5b5NRx-13">
@@ -622,10 +622,10 @@
             <mxPoint x="413.01" y="249" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="No3lAWHVarOLl_5b5NRx-13" value="login?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="No3lAWHVarOLl_5b5NRx-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;login?&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="364" y="250" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="No3lAWHVarOLl_5b5NRx-23" value="login gagal" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="No3lAWHVarOLl_5b5NRx-23" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;login gagal&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="489" y="210" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="No3lAWHVarOLl_5b5NRx-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="No3lAWHVarOLl_5b5NRx-13">
