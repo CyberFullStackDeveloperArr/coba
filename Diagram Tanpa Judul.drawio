@@ -600,7 +600,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="S9GQfCRw7XTyugrCux3c" name="Halaman-5">
-    <mxGraphModel dx="537" dy="317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="778" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -650,6 +650,72 @@
               <mxPoint x="539" y="190" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="No3lAWHVarOLl_5b5NRx-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.501;entryY=-0.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="No3lAWHVarOLl_5b5NRx-13" target="No3lAWHVarOLl_5b5NRx-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="260" as="sourcePoint" />
+            <mxPoint x="340" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="No3lAWHVarOLl_5b5NRx-37" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="No3lAWHVarOLl_5b5NRx-30">
+          <mxGeometry x="-0.5136" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="No3lAWHVarOLl_5b5NRx-31" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;show data dashboard&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="280" y="340" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="No3lAWHVarOLl_5b5NRx-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="329.95" y="390" as="sourcePoint" />
+            <mxPoint x="329.96" y="419" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="No3lAWHVarOLl_5b5NRx-34" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;input url&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="255" y="420" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="No3lAWHVarOLl_5b5NRx-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="No3lAWHVarOLl_5b5NRx-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="329.83" y="480" as="sourcePoint" />
+            <mxPoint x="329.84" y="509" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="No3lAWHVarOLl_5b5NRx-36" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;memasukkan&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;url?&lt;/font&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="280" y="510" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="No3lAWHVarOLl_5b5NRx-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.002;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.515;entryY=1.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="No3lAWHVarOLl_5b5NRx-36" target="No3lAWHVarOLl_5b5NRx-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="388" y="559" as="sourcePoint" />
+            <mxPoint x="464" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="464" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="No3lAWHVarOLl_5b5NRx-39" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="No3lAWHVarOLl_5b5NRx-38">
+          <mxGeometry x="-0.3435" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="No3lAWHVarOLl_5b5NRx-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.501;entryY=-0.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="560" as="sourcePoint" />
+            <mxPoint x="246" y="599" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="246" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="No3lAWHVarOLl_5b5NRx-41" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="No3lAWHVarOLl_5b5NRx-40">
+          <mxGeometry x="-0.5136" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="No3lAWHVarOLl_5b5NRx-42" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;tidak ada url&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="413" y="470" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
